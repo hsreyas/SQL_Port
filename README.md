@@ -1,2 +1,2 @@
 # SQL_Port
-Tried some basic covid data exploration through various different methods in sql.
+Done some Sql project which focuses on data exploration and data cleaning.
